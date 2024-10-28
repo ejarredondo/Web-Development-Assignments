@@ -3,9 +3,7 @@
 # My Websites
 
 # Chapters 1 & 2
-2.10 Practice
-2.13 Practice
-2.14 Practice
+
 
 # Chapter 3
 
