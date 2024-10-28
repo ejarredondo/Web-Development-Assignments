@@ -1,6 +1,6 @@
 <h2>My Websites</h2>
 <h3>Chapters 1 & 2</h3>
-<h4>Hands-On Pratice</h4>
+<h4>Hands-On Practice</h4>
   <ul>
     <li><a href="[ch. 1 & 2 hands on practice.zip](https://github.com/user-attachments/files/17549628/ch.1.2.hands.on.practice.zip)">Trillium Media Websites</a></li>
   </ul>
