@@ -1,5 +1,3 @@
-<h1>Web-Development-Assignments</h1>
-
 <h2>My Websites</h2>
 
 <h3>Chapters 1 & 2</h3>
