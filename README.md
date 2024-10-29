@@ -7,7 +7,8 @@
 <h3>Chapter 3</h3>
 <h4>Hands-On Practice</h4>
   <ul>
-    <li><a href="[chapter 3 hands on practice.zip](https://github.com/user-attachments/files/17549632/chapter.3.hands.on.practice.zip)">More Trillium Media Websites</a></li>
+    <li><a href="advantage.html">Advantage</a></li>
+    <li><a href="advantage2.html">Advantage 2</a></li>
   </ul>
 <h4>Assignments</h4>
   <ul>
