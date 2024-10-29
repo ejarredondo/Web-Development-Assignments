@@ -32,7 +32,7 @@
   </ul>
 <h4>Assignments</h4>
   <ul>
-    <li><a href="[[chapter 4 assignment.zip](https://github.com/user-attachments/files/17549642/chapter.4.assignment.zip)](https://github.com/ejarredondo/Web-Development-Assignments/blob/main/Arredondo.html)">My Personal Website</a></li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/Arredondo.html">My Personal Website</a></li>
   </ul>
 <h3>Chapter 5</h3>
 <h4>Hands-On Practice</h4>
