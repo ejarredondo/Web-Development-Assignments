@@ -7,8 +7,8 @@
 <h3>Chapter 3</h3>
 <h4>Hands-On Practice</h4>
   <ul>
-    <li><a href="advantage.html">Advantage</a></li>
-    <li><a href="advantage2.html">Advantage 2</a></li>
+    <li><a href="file:///C:/Users/ejarr/AppData/Local/Temp/d7a3a253-5595-4b50-9eeb-73b16077bfc5_Ch3Assignment.zip.fc5/chapter%203%20assignment%202/advantage.html">Advantage</a></li>
+    <li><a href="file:///C:/Users/ejarr/AppData/Local/Temp/e0e64972-9feb-4656-943c-6f398752e626_Ch3Assignment.zip.626/chapter%203%20assignment%202/advantage2.html">Advantage 2</a></li>
   </ul>
 <h4>Assignments</h4>
   <ul>
