@@ -68,3 +68,11 @@
   </ul>
 <h3>Group Presentation</h3>
 <p><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/Web%20Dev%20Project%20Proposal.pptx">AccountaBuddy Proposal</a></p>
+<h3>Chapter 9</h3>
+<h4>Hands-On Practice</h4>
+  <ul>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/form2.html">9.2 Practice</a></li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/contact.html">9.5 Practice</a></li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/form5.html">9.4 Practice</a></li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/form6.html">9.6 Practice</a></li>
+  </ul>
