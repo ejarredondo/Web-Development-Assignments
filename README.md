@@ -72,7 +72,11 @@
 <h4>Hands-On Practice</h4>
   <ul>
     <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/form2.html">9.2 Practice</a></li>
-    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/contact.html">9.5 Practice</a></li>
     <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/form5.html">9.4 Practice</a></li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/contact.html">9.5 Practice</a></li>
     <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/form6.html">9.6 Practice</a></li>
+  </ul>
+<h4>Assignments</h4>
+  <ul>
+    <li><a href=</li>
   </ul>
