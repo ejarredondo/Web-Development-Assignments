@@ -78,5 +78,6 @@
   </ul>
 <h4>Assignments</h4>
   <ul>
-    <li><a href=</li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/musicform.html">Music Form</a></li>
+    <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/newform.html">New Form</a></li>
   </ul>
