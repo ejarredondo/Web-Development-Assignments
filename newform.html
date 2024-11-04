@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>Chapter 9 Assignment</head>
+<body>
+<form method="post" action="http://webdevfoundations.net/scripts/mydemo.asp">
+<label>Username: <input type="text" name="username" id="username" maxlength="30"><br><br>
+<label>Favorite Day of the Week: <br>
+	<input type="radio" name="favday" id="favsun" value="sun">Sunday<br>
+	<input type="radio" name="favday" id="favmon" value="mon">Monday<br>
+	<input type="radio" name="favday" id="favtues" value="tues">Tuesday<br>
+	<input type="radio" name="favday" id="favwed" value="wed">Wednesday<br>
+	<input type="radio" name="favday" id="favthurs" value="thurs">Thursday<br>
+	<input type="radio" name="favday" id="favfri" value="fri">Friday<br>
+	<input type="radio" name="favday" id="favsat" value="sat">Saturday<br>
+<label>Favorite Social Media Site: <br>
+	<select size="5" name="favsocialmedia" id="favsocialmedia">
+		<option>select a social media site</option>
+		<option value="fb">FaceBook</option>
+		<option value="tt">TikTok</option>
+		<option value="insta">Instagram</option>
+		<option value="yt">YouTube</option>
+		<option value="tx">Twitter/X</option>
+	</select>
+<fieldset>
+	<legend>Shipping Address</legend>
+	<label>Address 1: <input type="text" name="street" id="street" size="54" required="required"></label><br><br>
+	<label>Address 2: <input type="text" name="street" id="street" size="54"></label><br><br>
+	<label>City: <input type="text" name="city" id="city"></label>
+	<label>State: <input type="text" name="state" id="state" maxlength="2" size="5"></label>
+	<label>Zip: <input type="text" name="zip" id="zip" maxlength="5" size="5"></label>
+</fieldset>
+<input type="image" src="signup.gif" alt="Sign Up Button">
+<input type="hidden" name="userid" id="userid" value="order@site.com">
+<label>Password: <input type="password" name="pword" id="pwrod">
+</body>
+</html>
+
+
