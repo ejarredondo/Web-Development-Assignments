@@ -81,3 +81,8 @@
     <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/musicform.html">Music Form</a></li>
     <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/newform.html">New Form</a></li>
   </ul>
+<h3>Final Group Project - AccountaBuddy</h3>
+<ul>
+  <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/index.html">Website Home Page</a></li>
+  <li><a href="https://github.com/ejarredondo/Web-Development-Assignments/blob/main/Web%20Dev%20Project%20Proposal%20(2).pptx">Presentation</a></li>
+</ul>
